@@ -1,0 +1,13 @@
+cd D:\Spring_Projects\Docker-Compose-Demo
+
+docker-compose config
+
+docker-compose build
+
+docker-compose up
+
+Endpoints:-
+
+http://localhost:8083/api/departments
+
+http://localhost:8081/api/users
